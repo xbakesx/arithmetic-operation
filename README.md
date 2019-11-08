@@ -2,7 +2,7 @@
 
 ## What To Do
 
-Fork this repository and update it with code to satisfy the following criteria:
+Fork or clone this repository and update it with code to satisfy the following criteria:
 
  * `ArithmeticApplication.java` should run and take three arguments from the command line (an operation, one of +, -, and *; then two numbers) and prints out the result of using that operation on those two numbers in that order.  
    * Running `java -jar arithmetic.jar - 10 8` should print out `2`
