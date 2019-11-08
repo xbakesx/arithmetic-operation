@@ -4,7 +4,8 @@
 
 Fork this repository and update it with code to satisfy the following criteria:
 
- * `ArithmeticApplication.java` should run and take three arguments from the command line (an operation, one of +, -, and *; then two numbers) and prints out the result of using that operation on those two numbers in that order.
+ * `ArithmeticApplication.java` should run and take three arguments from the command line (an operation, one of +, -, and *; then two numbers) and prints out the result of using that operation on those two numbers in that order.  
+   * Running `java -jar arithmetic.jar - 10 8` should print out `2`
  * All of the tests in `ArithmeticApplicationTests.java` pass.
  
 Feel free to:
@@ -15,7 +16,7 @@ Feel free to:
  
 ## Submission Process
 
- * I don't honestly know...
+ * Send us a link to your fork or open a merge request, a zip of your code or any other way of getting us your project.
  
 ## What We're Looking For
 
@@ -23,7 +24,6 @@ Feel free to:
  * Good coding practices.
  * Identifying edge cases.
  * Test coverage.
- * Use correct indentation and curly braces ;-).
  
 ## Unfamiliar with Spring Boot and Gradle?
 
